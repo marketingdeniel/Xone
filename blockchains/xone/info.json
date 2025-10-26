@@ -1,0 +1,26 @@
+{
+  "name": "Xone",
+  "chainId": 3721,
+  "shortName": "xone",
+  "networkId": 3721,
+  "nativeCurrency": {
+    "name": "Xone Coin",
+    "symbol": "XOC",
+    "decimals": 18
+  },
+  "rpc": [
+    "https://rpc.xone.org"
+  ],
+  "explorers": [
+    {
+      "name": "XoneScan",
+      "url": "https://xonescan.com",
+      "standard": "EIP3091"
+    }
+  ],
+  "infoURL": "https://xone.org",
+  "slip44": 60,
+  "type": "EVM",
+  "title": "Xone Blockchain"
+}
+
