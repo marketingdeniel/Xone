@@ -1,0 +1,21 @@
+{
+  "name": "Xone Coin",
+  "symbol": "XOC",
+  "type": "coin",
+  "decimals": 18,
+  "description": "Xone Coin (XOC) is the native utility token powering the Xone EVM-compatible blockchain ecosystem.",
+  "website": "https://xone.org",
+  "explorer": "https://xonescan.com/token/0xYOURTOKENADDRESS",
+  "status": "active",
+  "id": "0xYOURTOKENADDRESS",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/xonechain"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/xonechain"
+    }
+  ]
+}
